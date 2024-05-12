@@ -8,7 +8,7 @@ First of all, we need to import two libraries into our code. The first one is th
 
 **Step2:**  
 
-Now, just use Age_Calculator.py code run it on online r any complier 
+Now, just use Age_Calculator.py code run it on online or any complier 
 
 **Step3:**
 
