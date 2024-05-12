@@ -12,7 +12,7 @@ Now, just use Age_Calculator.py code run it on online r any complier
 
 **Step3:**
 
-It will frist your date of birth year!
+It will first your date of birth year!
 
 **Step4:** 
 
